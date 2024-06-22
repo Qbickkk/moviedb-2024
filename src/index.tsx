@@ -10,3 +10,5 @@ root.render(
    </>
 );
 
+git rm .idea/ -r --cached
+git add -u .idea/
